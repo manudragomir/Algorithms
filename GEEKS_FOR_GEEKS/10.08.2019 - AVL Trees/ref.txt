@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+https://www.geeksforgeeks.org/avl-tree-set-2-deletion/
+https://en.wikipedia.org/wiki/AVL_tree
+https://courses.csail.mit.edu/6.006/spring11/rec/rec04.pdf
+https://www.cs.cmu.edu/~wlovas/15122-r11/lectures/18-avl.pdf
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6_006F11_lec06.pdf
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6_006F11_lec06_orig.pdf
+https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/AVL_tree.html

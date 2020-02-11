@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568377896 source:c:\users\manuel\desktop\pe\tairos\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

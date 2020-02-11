@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552930692 source:c:\users\manuel\desktop\pe\ninjago\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+	<cstring>
+

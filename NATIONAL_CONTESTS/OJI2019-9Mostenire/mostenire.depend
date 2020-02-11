@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567418288 source:c:\users\manuel\desktop\pe\mostenire\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<algorithm>
+

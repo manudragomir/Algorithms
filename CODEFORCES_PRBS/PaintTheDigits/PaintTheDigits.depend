@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568497238 source:c:\users\manuel\desktop\pe\paintthedigits\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

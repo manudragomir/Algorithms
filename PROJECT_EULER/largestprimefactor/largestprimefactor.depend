@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552152775 source:c:\users\manuel\desktop\pe\largestprimefactor\main.cpp
+	<iostream>
+	<cmath>
+

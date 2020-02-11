@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552404345 source:c:\users\manuel\desktop\pe\inversions\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568335026 source:c:\users\manuel\desktop\pe\conexidad\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<queue>
+

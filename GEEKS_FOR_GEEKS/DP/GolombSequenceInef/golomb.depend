@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567341786 source:c:\users\manuel\desktop\pe\golomb\main.cpp
+	<iostream>
+	<algorithm>
+
